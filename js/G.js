@@ -199,5 +199,29 @@
 // [color "branch"] remote = yellow
 
 
+//video 8
+//public key or ssh key
 
 
+// fik testa3mlo la ma tektob kelll marra el username wel password
+// public key huwe shi generel..mesh bas lal github
+
+//1  ssh-keygen -t rsa -b 4096 -C "megamobile2267@gmail.com"
+//create public key
+
+//2   password or passphrase
+// fi 3alem el unix ma bi 5alik hata thsuf el password lama tektob
+//yaane ra2e3
+
+// cat ~/.shh/id_rsa.pub
+// cat bi geble mu7atawa aya file bta3ti esmo
+//bya3tine mu7atwa lama yetla3 mne5do kelo w mnruh 3a githubaccount
+// settings
+//  ssh and GPG keys
+//new SSH key
+// title : My Home PC
+// key : mnheto paste
+//add ssh key
+
+// defna el key khalas
+// ssh -T git@github.com  
