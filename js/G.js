@@ -554,11 +554,119 @@
 // git push origin main--force
 
 
+
+
+
+
+
+
+
+
 ////////////////////////////////
 //video17
+//ignoring files and Directories
+
+// ma te2bal terfa3 file aw direct
+//touch .gitignore
+//ls
+//git st
+
+//code .gitignore
+//btfetah vscode => mnektob fia
+// *.log
+//yaane tjehal el log files
+
+//touch osama.log
+//git st
+
+//touch text.log
+
+//git st
+
+// touch text.txt
+
+//git st
+//
+
+//touch vip.log
+//git st
+// bel vcode 
+// *.log
+//!vip.log
+
+//git st
+// mkdir node_packs
+//ls
+//git st
+// cd node_packs\       yaane fut 3lee
+//touch package1.js
+//ls
+//cd ..             nerja3 wara
+//ls
+//git st
+
+//mnhet bel vsccc code he li tahet
+//node_packs/       yaane el folder li esmo hik ma elak 3ale2a fi
+
+//git st
+///////////////////////////////
+//bel vscodee page
+//text.txt     fik tektob filee 
 
 
 
+//git st
+// fik ta3mul push gaseb 3n el gitigonre
+
+//git add text.txt
+//??
+//hik
+//git add -f text.txt
+//git st
+
+//git add *
+
+//seach 3an git ignore patterns bi google mufid
+
+
+
+//DS_Store   hidden system file 5as bel mac
+//thumbs.db   hidden system file bas lal windows
+
+
+//////////////////////////////////////////
+
+
+
+//video18
+//Tagging And Releasing Part 1
+//hayda shi bya3tik el version taba3 shi enta 3amlo aw 3m ta3mlo
+
+
+//touch first.txt
+//git add first.txt
+//git commit -m "Message From commit"
+//git push origin main
+
+
+//naw3en tag : lightweight tag
+// and annotated tag
+//git push origin v1.0
+//git tag
+//git tag v1.0             esma v1.0
+//git tag                    //ma3lume
+//git push origin v1.0
+//touch new_fearture.txt
+//git add new_feature.txt
+//git commit -m "New Version"
+//git push origin main
+//git tag -a v2.0 -m "Our Project => Second Version"
+// -a yaaen anoted esma v2 =m "descriptionn"
+//git push origin v2.0
+//touch new.txt
+//git add new.txt
+//git commit -m "Added New Feature "
+//git push origin main
 
 
 
