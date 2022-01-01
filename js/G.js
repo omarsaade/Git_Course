@@ -6,12 +6,15 @@
 // lesson5(v9)://kif bta3mul repo bel local w teb3ato 3a remote(ssh)
 // LESSON6(V10): //Learn Pull Request With Real Examples - BI 3ALEMNA
 // lesson7(v11)://Alieas
-//lesson8(v12)://bi 3almak kif te5la2 branch w ta3mela merge ma3 el master w terja3 teb3ata lal origin (github)
+// lesson8(v12)://bi 3almak kif te5la2 branch w ta3mela merge ma3 el master w terja3 teb3ata lal origin (github)
 // lesson9(v13):// mastering stash part 1
-//lesson10(v14):// mastering stash part 2
+// lesson10(v14):// mastering stash part 2
 // lesson11(v15)://restore ana clean
-//lesson12(v16)://// Resetting the head 7azef commit mabadak yehon aw ma 3ezton aw fion galat
-
+// lesson12(v16)://// Resetting the head 7azef commit mabadak yehon aw ma 3ezton aw fion galat
+// lesson13(v17):// ignoring files and Directories
+// lession14(v18)://Tagging And Releasing Part 1
+// lesson15(v19)://Tagging And Releasing Part 2
+// lesson16(v20): nasaye7
 
 
 
@@ -562,112 +565,128 @@
 
 
 
-////////////////////////////////
-//video17
-//ignoring files and Directories
+// //////////////////////////////
+// video17
+// ignoring files and Directories
 
 // ma te2bal terfa3 file aw direct
-//touch .gitignore
-//ls
-//git st
+// touch.gitignore
+// ls
+// git st
 
-//code .gitignore
-//btfetah vscode => mnektob fia
-// *.log
-//yaane tjehal el log files
+// code.gitignore
+// btfetah vscode => mnektob fia
+//     *.log
+// yaane tjehal el log files
 
-//touch osama.log
-//git st
+// touch osama.log
+// git st
 
-//touch text.log
+// touch text.log
 
-//git st
+// git st
 
 // touch text.txt
 
-//git st
-//
+// git st
 
-//touch vip.log
-//git st
-// bel vcode 
-// *.log
-//!vip.log
 
-//git st
+// touch vip.log
+// git st
+// bel vcode
+//     *.log
+// !vip.log
+
+// git st
 // mkdir node_packs
-//ls
-//git st
+// ls
+// git st
 // cd node_packs\       yaane fut 3lee
-//touch package1.js
-//ls
-//cd ..             nerja3 wara
-//ls
-//git st
+// touch package1.js
+// ls
+// cd..nerja3 wara
+// ls
+// git st
 
-//mnhet bel vsccc code he li tahet
-//node_packs/       yaane el folder li esmo hik ma elak 3ale2a fi
+// mnhet bel vsccc code he li tahet
+// node_packs / yaane el folder li esmo hik ma elak 3ale2a fi
 
-//git st
-///////////////////////////////
-//bel vscodee page
-//text.txt     fik tektob filee 
+// git st
+// /////////////////////////////
+// bel vscodee page
+// text.txt     fik tektob filee 
 
 
 
-//git st
+// git st
 // fik ta3mul push gaseb 3n el gitigonre
 
-//git add text.txt
-//??
-//hik
-//git add -f text.txt
-//git st
+// git add text.txt
+//     ??
+//     hik
+// git add - f text.txt
+// git st
 
-//git add *
+// git add *
 
-//seach 3an git ignore patterns bi google mufid
-
-
-
-//DS_Store   hidden system file 5as bel mac
-//thumbs.db   hidden system file bas lal windows
-
-
-//////////////////////////////////////////
+//     seach 3an git ignore patterns bi google mufid
 
 
 
-//video18
-//Tagging And Releasing Part 1
-//hayda shi bya3tik el version taba3 shi enta 3amlo aw 3m ta3mlo
+// DS_Store   hidden system file 5as bel mac
+// thumbs.db   hidden system file bas lal windows
 
 
-//touch first.txt
-//git add first.txt
-//git commit -m "Message From commit"
-//git push origin main
+// ////////////////////////////////////////
 
 
-//naw3en tag : lightweight tag
+
+// video18
+// Tagging And Releasing Part 1
+// hayda shi bya3tik el version taba3 shi enta 3amlo aw 3m ta3mlo
+
+
+// touch first.txt
+// git add first.txt
+// git commit - m "Message From commit"
+// git push origin main
+
+
+// naw3en tag: lightweight tag
 // and annotated tag
-//git push origin v1.0
-//git tag
-//git tag v1.0             esma v1.0
-//git tag                    //ma3lume
-//git push origin v1.0
-//touch new_fearture.txt
-//git add new_feature.txt
-//git commit -m "New Version"
-//git push origin main
-//git tag -a v2.0 -m "Our Project => Second Version"
-// -a yaaen anoted esma v2 =m "descriptionn"
-//git push origin v2.0
-//touch new.txt
-//git add new.txt
-//git commit -m "Added New Feature "
-//git push origin main
+// git push origin v1.0
+// git tag
+// git tag v1.0             esma v1.0
+// git tag                    //ma3lume
+// git push origin v1.0
+// touch new_fearture.txt
+// git add new_feature.txt
+// git commit - m "New Version"
+// git push origin main
+// git tag - a v2.0 - m "Our Project => Second Version"
+//     - a yaaen anoted esma v2 = m "descriptionn"
+// git push origin v2.0
+// touch new.txt
+// git add new.txt
+// git commit - m "Added New Feature "
+// git push origin main
 
+// //////////////////
+// video19
+// git tag - l "v1.*"
+// bta3tina list bel isadarat v1.(0, 1, ....) li mawjud 
+
+
+// kif ne7zof release(isdar) men command line
+// git tag - d v2.0
+// git tag - d v1.0
+
+
+// ne7zefo 3n remote
+// git push origin--delete v2.0
+
+
+// ////////////////////
 
 
 
