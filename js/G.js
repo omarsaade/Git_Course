@@ -241,7 +241,7 @@
 // cat ~/.shh/id_rsa.pub
 
 // $ cat / c / Users / omar /.ssh / id_rsa.pub
- 
+
 
 
 // cat bi geble mu7atawa aya file bta3ti esmo
@@ -386,7 +386,7 @@
 // git checkout - b Scroll
 // touch main.js
 // git status
-// git add main.js 
+// git add main.js
 // git commit - m "New Exper"
 // git checkout master
 // git branch - D Scroll
@@ -447,7 +447,7 @@
 // git add x.txt
 
 
-// git stash list                bta3tik list bel stasheyet  
+// git stash list                bta3tik list bel stasheyet
 // git stash
 // git stash list
 // touch osx.txt
@@ -474,7 +474,7 @@
 // git st
 
 
-// git stash list                             
+// git stash list
 // git commit - m "M Text"
 // git push origin master
 // git stash list
@@ -498,14 +498,14 @@
 // retore ana clean
 
 
-// ls 
+// ls
 // git st
 // touch new.txt
 // git st
 // git add new.txt
 // git st
 
-// git restore--staged new.txt 
+// git restore--staged new.txt
 // git st
 // code new.txt
 // git st
@@ -519,7 +519,7 @@
 // git clean - n             show file
 // touch new3.txt
 // git clean - n
-// git add new2.txt  
+// git add new2.txt
 // git clean - n
 // git clean - f
 // git st
@@ -567,6 +567,11 @@
 
 // //////////////////////////////
 // video17
+
+
+
+
+
 // ignoring files and Directories
 
 // ma te2bal terfa3 file aw direct
@@ -614,7 +619,7 @@
 // git st
 // /////////////////////////////
 // bel vscodee page
-// text.txt     fik tektob filee 
+// text.txt     fik tektob filee
 
 
 
@@ -670,11 +675,35 @@
 // git add new.txt
 // git commit - m "Added New Feature "
 // git push origin main
+//////
+// fi file esma .gitignore teb3a lal v17 and v 18 fia
+//                 *.log
+// balishufo
+
+
+
+//              !vip.log
+/// ma 3ada heda el log masmu7 yshufo
+
+
+//                     node_packs/
+// mamnu3 t3abro
+
+
+
+ //                   text.txt
+//  mamnu3
+
+//                      nodo/
+
+
+//                  bi.css
+
 
 // //////////////////
 // video19
 // git tag - l "v1.*"
-// bta3tina list bel isadarat v1.(0, 1, ....) li mawjud 
+// bta3tina list bel isadarat v1.(0, 1, ....) li mawjud
 
 
 // kif ne7zof release(isdar) men command line
